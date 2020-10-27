@@ -1,2 +1,2 @@
 # Circuits-Redux
-A rework of the Circuit Java app in CPP using classes, inheritance, and dynamic memory.
+A reworking of the Java Circuit app in CPP using classes, inheritance, and dynamic memory.
