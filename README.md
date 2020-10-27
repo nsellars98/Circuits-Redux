@@ -1,5 +1,5 @@
 # Circuits-Redux
-A reworking of the Java Circuit app in CPP using classes, inheritance, and dynamic memory.
+A reworking of the Java Circuit app in CPP using classes, inheritance, and dynamic memory allocation.
 
 Despite a memory leak where pointers in the vectors of the subclasses did not get deleted, the app is a working solution.
 
