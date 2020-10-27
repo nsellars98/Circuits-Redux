@@ -1,0 +1,2 @@
+E:\Users\nsell\source\repos\Homework\C++\NCS_HW7_CPP\Debug\NCS_HW7_CPP.exe
+E:\Users\nsell\source\repos\Homework\C++\NCS_HW7_CPP\Debug\NCS_HW7_CPP.pdb
